@@ -1,0 +1,3 @@
+Fat image size: 926 MB
+Slim image size: 438MB
+Size reduction: 52.69%
